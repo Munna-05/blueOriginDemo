@@ -1,0 +1,652 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    margin: 0;
+    background: rgb(24, 24, 24);
+   
+}
+.firstDiv{
+    width: 1349px;
+    height: 663px;
+    background-image: url(https://www.blueorigin.com/assets/ns20_homepage_hero.jpg);
+    background-size: 1349px 663px;
+}
+.navbartop{
+    width: 1300px;
+    height: 76px;
+    display: flex;
+    justify-content: space-between;
+}
+.ul{
+    width: 1121px;
+    height: 47px;
+    justify-content: flex-end;
+    color: #ffffff;
+}
+.logo{
+width: 179px;
+height: 76px;
+font-family: 'Barlow', sans-serif;  
+
+
+}
+.blue1{
+    width: 129px;
+    height: 22px;
+    margin: 25px;
+}
+.vehicle{
+    width: 199px;
+    height: 47px;
+    align-items: flex-start;
+    color: #ffffff;
+    display: inline-block;
+    font-family: 'Barlow';
+    font-size: 13px;
+    letter-spacing: 2.3px;
+    padding: 17px;
+    text-align: left;
+    text-transform: uppercase;
+    background: none;
+    border: none;
+    font-weight: 700;
+
+}
+ul .blue{
+    width: 132px;
+    height: 47px;
+    color: #ffffff;
+    display: inline-block;
+    font-family: 'Barlow';
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2.3px;
+    line-height: 13px;
+    padding: 17px;
+    text-align: left;
+    text-transform: uppercase;
+    background: none;
+    border: none;
+}
+.news{
+    width: 78px;
+    height: 47px;
+    align-items: flex-start;
+    color: #ffffff;
+    display: inline-block;
+    font-family: 'Barlow';
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2.3px;
+    line-height: 13px;
+    padding: 17px;
+    text-align: left;
+    text-transform: uppercase;
+    background: none;
+    border: none;
+}
+.careers{
+    width: 105px;
+    height: 47px;
+    align-items: flex-start;
+    color: #ffffff;
+    display: inline-block;
+    font-family: 'Barlow';
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2.3px;
+    line-height: 13px;
+    padding: 17px;
+    text-align: left;
+    text-transform: uppercase;
+    background: none;
+    border: none;
+}
+.shop{
+    width: 75px;
+    height: 47px;
+    align-items: flex-start;
+    color: #ffffff;
+    display: inline-block;
+    font-family: 'Barlow';
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2.3px;
+    line-height: 13px;
+    padding: 17px;
+    text-align: left;
+    text-transform: uppercase;
+    background: none;
+    border: none;
+}
+.image{
+    width: 74px;
+    height: 46px;
+    align-items: flex-start;
+    color: #ffffff;
+    display: inline-block;
+    font-family: 'Barlow';
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2.3px;
+    line-height: 13px;
+    padding: 7px 17px;
+    text-align: left;
+    text-transform: uppercase;
+    background: none;
+    border: none;
+    
+}
+img{
+    width: 40px;
+    height: 32px;
+    
+}
+.fly{
+    width: 143px;
+    height: 47px;
+    align-items: flex-start;
+    color: #ffffff;
+    display: inline-block;
+    font-family: 'Barlow';
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2.3px;
+    line-height: 13px;
+    padding: 7px 17px;
+    text-align: left;
+    background-color: blue;
+    border: none;
+}
+.upcoming{
+    width: 189px;
+    height: 14px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1.7px;
+    line-height: 14px;
+    padding: 0 0 0 40px;
+    font-family:'Barlow' ;
+    position: relative;
+    top: 57px;
+    left: 65px;
+
+
+
+}
+h1{
+    width: 658px;
+    height: 90px;
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 75px;
+    font-weight: 10;
+    line-height: 71px;
+    margin: 30px 0px 16px;
+    text-transform: uppercase;
+    position: relative;
+    top: 66px;
+    left: 100px;
+}
+.mission{
+    font-size: 75px;
+    text-transform: uppercase;
+    font-family: 'Barlow';
+    font-weight: 1000;
+    color: #ffffff;
+    position: relative;
+    left: 99px;
+    top: 11px;
+    
+
+}
+p{
+    color: #ffffff;
+    font-family: 'Barlow';
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    line-height: 28px;
+    position: relative;
+    left: 103px;
+}
+.learnmore{
+border-color: #828282;
+border-radius: 2px;
+border-style: solid;
+border-width: 1px;
+color: #ffffff;
+display: inline-block;
+font-family: 'barlow';
+font-size: 14px;
+font-weight: 700;
+letter-spacing: 2px;
+line-height: 14px;
+padding: 15px 25px;
+text-align: center;
+background:none;
+position: relative;
+left: 105px;
+top: 89px;
+}
+.secondDiv{
+    background-image: url(https://www.blueorigin.com/assets/hero-ns19-apogee-laura-window.jpg);
+    background-size: 1349px 1063px;
+    width: 1349px;
+    height: 663px;
+    
+}
+.mission2{
+    left: 575px;
+    top: 261px;
+    position: relative;
+    font-size: 75px;
+    text-transform: uppercase;
+    font-family: 'Barlow';
+    font-weight: 1000;
+    color: #ffffff;
+    left: 555px;
+    
+    position: relative;
+    top: 236px;
+    
+    
+}
+.newshp{
+    width: 658px;
+    height: 90px;
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 75px;
+    font-weight: 10;
+    line-height: 71px;
+    margin: 30px 0px 16px;
+    text-transform: uppercase;
+    left: 553px;
+    top: 335px;
+    }
+.para2{
+    width: 658px;
+    height: 56px;
+    font-size: 20px;
+    font-family: 'Barlow';
+    letter-spacing: 0.8px;
+    line-height: 28px;
+    left: 561px;
+    top: 166px;
+}
+span{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    margin: 0 0 0 15px;
+    width: 174px;
+    height: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Barlow';
+    position: relative;
+    left: 550px;
+    top: 195px;
+}
+.thirdDiv{
+    width: 1349px;
+    height: 663px;
+    background-image: url(https://www.blueorigin.com/assets/reef_fullcolor_01darkearth.jpg);
+    background-size: 1349px 663px;
+    
+
+}
+.intro{
+    width: 845px;
+    height: 143px;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 75px;
+    text-transform: uppercase;
+    line-height: 71px;
+    margin: 0 0 16px;
+    color: #ffffff;
+    font-weight: 100;
+    position: relative;
+    
+    left: 241px;
+    top: 117px;
+
+
+}
+.orb{
+    width: 845px;
+    height: 71px;
+    font-size: 48px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Barlow';
+    font-size: 75px;
+    font-weight: 800;
+    text-align: center;
+    position: relative;
+    left: 229px;
+    top: 13px;
+    
+}
+.para{
+    text-align: center;
+    font-family: 'inter';
+    position: absolute;
+    right: 165px;
+    top: 1625px;
+
+}
+.meetorb{
+    width: 231px;
+    height: 48px;
+    color: #ffffff;
+    display: inline-block;
+    border: solid grey 1px;
+    background: none;
+    font-family: 'Barlow';
+    position: relative;
+    left: 555px;
+    top: 259px;
+
+}
+.meetorb:hover{
+   border: solid black 2px;
+}
+.forthDiv{
+    width: 1349px;
+    height: 663px;
+    background-image: url(https://www.blueorigin.com/assets/photos/new-glenn/blueorigin_newglenn_launch_web.jpg);
+    background-size: 1349px 663px;
+}
+.gradit{
+    width: 210px;
+    height: 14px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1.7px;
+    line-height: 14px;
+    padding: 0 0 0 40px;
+    font-family: 'Barlow';
+    margin-left: 42.5%;
+    margin-top: 200px;
+}
+.newGlen{
+    width: 658px;
+    height: 71px;
+    font-size: 75px;
+    font-weight: 900;
+    line-height: 71px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'Barlow';
+    margin-left: 45%;
+}
+.orbital{
+    width: 658px;
+    height: 71px;
+    font-size: 75px;
+    font-weight: 200;
+    line-height: 71px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'Inter';
+    margin-left: 45%;
+}
+.meet{
+    width: 658px;
+    height: 28px;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    line-height: 28px;
+    margin-left: 38%;
+}
+.explore{
+    width: 253px;
+    height: 46px;
+    border-color:#828282 ;
+    border-radius: 2px;
+    border: solid 1px;
+    display: flex;
+    font-family: 'Barlow';
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 14px;
+    padding: 15px 38px;
+    text-align: center ;
+    text-transform: uppercase;
+    margin-left: 45%;
+    background: none;
+    color: #ffffff;
+    margin-top: 50px;
+}
+.fifthDiv{
+    width: 1349px;
+    height: 663px;
+    background-image: url(https://www.blueorigin.com/assets/blueorigin_be4_hotfirealternate2.jpg);
+    background-size: 1349px 663px;
+}
+.reuse{
+    width: 658px;
+    height: 71px;
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 74px;
+    font-weight: 200;
+    line-height: 71px;
+    text-transform: uppercase;
+    margin-left: 50px;
+    position: relative;
+    top: 199px;
+}
+.rocket{
+    width: 1000px;
+    height: 71px;
+    color: #ffffff;
+    font-size: 75px;
+    font-weight: 800;
+    font-family:'arial';
+    line-height: 80px;
+    text-transform: uppercase;
+    margin-left: 50px;
+    position: relative;
+    top: 195px;
+}
+.paras{
+    width: 658px;
+    height: 56px;
+    color: #ffffff;
+    font-family: 'Barlow';
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    line-height: 28px;
+    margin-left: 54px;
+    position: relative;
+    top: 210px;
+    font-weight: 100;
+}
+.explore2{
+    width: 253px;
+    height: 46px;
+    border-color:#828282 ;
+    border-radius: 2px;
+    border: solid 1px;
+    display: flex;
+    font-family: 'Barlow';
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 14px;
+    padding: 15px 38px;
+    text-align: center ;
+    text-transform: uppercase;
+    margin-left: 54px;
+    background: none;
+    color: #ffffff;
+    margin-top: 285px;
+    
+
+}
+section{
+    width: 1349px;
+    height: 92px;
+    align-items: center;
+    background-color: #0033dd;
+    display: flex;
+    justify-content: center;
+    padding: 20px ;
+    padding-left: 180px;
+
+
+}
+.follow{
+  width: 241px;
+  height: 16px;
+  font-size: 14px ;
+  letter-spacing: 2px;
+  font-weight: 500;
+  font-family: 'Barlow';
+  line-height: 16px;
+  padding: 0 50px 0 0;  
+  text-transform: uppercase;
+  color: #ffffff;
+  position: relative;
+  left: 25px;
+}
+.btn{
+    margin-left: 150px;
+}
+.twit{
+    border: none;
+    border-radius: 50px;
+    width: 52px;
+    height: 52px;
+    align-items: center;
+    background: none;
+    position: relative;
+    left: -164px;
+    margin-right: 10px;
+}
+.twit:hover{
+    border: solid white 1px;
+}
+.tweet{
+    width: 20px;
+    height: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 3px;
+}
+
+
+footer{
+    width: 1349px;
+    height: 536px;
+    background-color: #222222;
+    display: flex;
+    padding: 0 20px;
+    justify-content: right;
+}
+.f_One{
+    width: 400px;
+    height: 536px;
+    background: #222222;
+    display: flex;
+   
+    margin-left: 75px;
+    justify-content: center;
+    padding: 90px 38px;
+}
+
+    
+
+.feather{
+
+    width: 220px;
+    height: 112px;
+    margin-top: 75px;
+    background-image: url(https://www.blueorigin.com/icons/featherfooter.svg);
+    background-size: 220px 112px;
+}
+.f_para{
+    width: 420px;
+    height: 24px;
+    font-family: 'Barlow';
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1.7px;
+    line-height: 12px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #797979;
+    left: -227px;
+    top: 310px;
+
+}
+.privacy{
+    width: 320px;
+    height: 20px;
+    display: inline;
+    font-family: 'Barlow';
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1.7px;
+    line-height: 12px;
+    text-align: left;
+    color: #797979;
+    left: -382px;
+    top: 370px;
+    position: relative;
+    
+    
+}
+.f_two{
+    width: 400px;
+    height: 536px;
+    background: #222222;
+    display: flex;
+    
+    margin-left: 75px;
+    justify-content: center;
+    padding: 90px 38px;
+    position: relative;
+    left: -138px;
+    top: -1px;
+    margin-left: 10px;
+    
+
+}
+.f_list{
+    width: 183px ;
+    height: 270px;
+    justify-content: center;
+    padding: 50px 0 0 20px;
+}
+.f_list li{
+    width: 253px;
+    height: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #e4e4e4;
+    letter-spacing: 1.7px;
+    line-height: 19px;
+    list-style: none;
+    margin-bottom: 25px;
+    font-weight: 200;
+
+
+}
+.capture{
+    width: 400px;
+    height: 536px;
+}
+
+    
